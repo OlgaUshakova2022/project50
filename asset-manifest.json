@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/project50/static/css/main.a76e8e2b.css",
+    "main.js": "/project50/static/js/main.d57265da.js",
+    "static/media/Image (24).jpg": "/project50/static/media/Image (24).e1b8b32e90a928228fb4.jpg",
+    "static/media/img.jpg": "/project50/static/media/img.01a5669dbf479edcf076.jpg",
+    "index.html": "/project50/index.html",
+    "main.a76e8e2b.css.map": "/project50/static/css/main.a76e8e2b.css.map",
+    "main.d57265da.js.map": "/project50/static/js/main.d57265da.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a76e8e2b.css",
+    "static/js/main.d57265da.js"
+  ]
+}
