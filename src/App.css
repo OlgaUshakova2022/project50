@@ -1,0 +1,48 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Farro&family=Francois+One&family=Montserrat:wght@400;700&family=Nunito+Sans&family=Open+Sans:wght@700&family=Poppins&family=Raleway:wght@300;500&family=Roboto&family=Roboto+Condensed:wght@300&family=Staatliches&family=Tourney:wght@100;400;900&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-seri;
+}
+:root{
+    /* dark theme */
+
+    /* --primary-color: #d4e20b;
+    --secondary-color:#421251; */
+
+
+    --primary-color: #f2903b;
+    --secondary-color:#4a0e5d;
+}
+body {
+ background-color: var(--primary-color);
+}
+
+
+
+.startWrapper{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   width: 100%;
+   background-color: var(--primary-color);
+}
+.start{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.startSpan{
+   
+   width: 500px;
+   height: 350px; 
+   background-color: var(--secondary-color);
+   color: white;
+   font-size: 40px;
+   text-align: center;
+}
+

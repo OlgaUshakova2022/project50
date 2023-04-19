@@ -1,0 +1,21 @@
+.header{
+    background-color: var(--secondary-color);
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-bottom: 30px;
+}
+@media (max-width:900px){
+    .header{
+        height: 280px;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+    }
+ 
+}  
+
+
+
